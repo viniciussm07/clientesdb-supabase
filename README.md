@@ -1,2 +1,2 @@
-# clientesdb-supabase
+# mydb-supabase
 backend application for managing a customer database
